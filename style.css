@@ -1,0 +1,183 @@
+
+body{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 200;
+    padding: 20px;
+    margin-top:20px;
+    margin-left:50px;
+    margin-right:50px;
+    margin-bottom:20px;
+}
+nav.navbar-container div img{
+    position: static;
+    height: 50px;
+    }
+    
+div ul.list{
+    position:relative;
+    bottom:50px;
+    text-align:left;
+    left:200px;
+}
+div ul.list li{
+    font-family: 'Orbitron';
+    font-style: normal;
+    font-weight: 800;
+    font-display: swap;
+    display:inline;
+    padding:30px;
+  
+}
+li:first-child{
+    font-size: 25px;
+    text-decoration: underline;
+
+}
+
+div.button-group{
+    position:relative;
+    text-align:end;
+}
+div button.nav-button{
+    position:relative;
+    bottom: 120px;
+    border-radius:5px;
+    padding-inline:20px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    background-color: white;
+   
+}
+div.search-icon{
+    position:relative;
+    bottom: 90px;
+    right: 90px;
+
+}
+div.search-icon svg{
+    height:20px;
+}
+div.hero-container{
+    position:relative;
+}
+span.square{
+    position:relative;
+    top: 150px;
+    left: 120px;
+
+}
+span.square img{
+    height:250px;
+}
+
+div.hero-container div img{
+    position:relative;
+    bottom:300px;
+    height:400px;
+    
+}
+
+span.star{
+    position:relative;
+    bottom:250px;
+    left:900px;
+
+}
+span.star img{
+    height:50px;
+}
+
+span.globe{
+    position:relative;
+    bottom:280px;
+    left:280px;
+
+}
+
+span.globe img{
+    height:50px;
+}
+
+div.hero-container-right{
+    text-align: center;
+    position: relative;
+    bottom:650px;
+    left:300px
+
+}
+div h1.hero-heading{
+    position: relative;
+    font-family: 'Orbitron';
+    font-style: normal;
+    font-weight: 800;
+    font-size:60px;
+    right: 80px;
+    bottom:60px;
+
+}
+p.hero-description{
+    position: relative;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-display: swap;
+    font-weight: 300;
+    bottom:80px;
+    width: 650px;
+    left:200px;
+
+}
+div button.button-email{
+    position: relative;
+    font-family: 'Orbitron';
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 5px;
+    background-color: white;
+    right:60px;
+    bottom:60px;
+
+
+
+}
+div button.button-join{
+    position:relative;
+    font-family:'Orbitron';
+    font-style:normal;
+    font-weight:400;
+    font-display:swap;
+    color:white;
+    background-color:black;
+    border-radius: 5px;
+    margin:10px;
+    right:50px;
+    bottom:60px;
+}
+div h4.contact-heading{
+    position: relative;
+    position: relative;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-display: swap;
+    font-weight: 300;
+    right:40px;
+    bottom:40px;
+    
+
+}
+div.icons span{
+    position: relative;
+    top:250px;
+    right:50px;
+
+    
+}
+div.icons span img{
+    height: 40px;
+    padding: 10px;
+
+}
