@@ -10,7 +10,7 @@ this is my  first project of <h1> iNeuron</h1>
 <h6> - In this project I have learned how to use HTML and css to build templates. </h6>
 
 
-<h3>This project took me around 3 hours approximately.</h3>
+<h3>This project took me around 2 hours approximately.</h3>
 
 
 <h4>connect with me</h4>
