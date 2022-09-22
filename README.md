@@ -17,3 +17,12 @@ this is my  first project of <h1> iNeuron</h1>
 
 <a href="https://www.linkedin.com/in/ashish-20164b176/">Linkdin</a>
 
+<h4>live project</h4>
+
+<a href="https://fanciful-khapse-42d7e6.netlify.app/">Linkdin</a>
+
+
+## Contact
+
+- **Name :** Ashish yadav
+- **Email :** ashishydv093@gmail.com
