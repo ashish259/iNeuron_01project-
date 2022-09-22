@@ -19,7 +19,7 @@ this is my  first project of <h1> iNeuron</h1>
 
 <h4>live project</h4>
 
-<a href="https://fanciful-khapse-42d7e6.netlify.app/">Linkdin</a>
+<a href="https://fanciful-khapse-42d7e6.netlify.app/">click here</a>
 
 
 ## Contact
